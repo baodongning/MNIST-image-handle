@@ -9,3 +9,7 @@ MNIST 数据集是一个由 7 万张手写数字灰度图像构成的存储库 [
 转变为intel深度学习SDK可用的文件存储格式，用于手写识别示例
 intel深度学习SDK示例：
 https://software.intel.com/zh-cn/articles/case-study-using-the-intel-deep-learning-sdk-for-training-image-recognition-models
+
+MNIST-image.ipynb为jupyter notebook文件
+t10k-images.idx3-ubyte，train-images.idx3-ubyte为image文件
+t10k-labels.idx1-ubyte，train-labels.idx1-ubyte为lable文件
